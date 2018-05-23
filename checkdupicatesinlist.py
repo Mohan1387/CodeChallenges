@@ -12,7 +12,7 @@ for i in lst:
     else:
       checklst.append(i)
 	  
-
+#Solution considering time complexity
 lst = [2,3,4,5,6]
 
 checklst = set()
